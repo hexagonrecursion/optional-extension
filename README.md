@@ -1,5 +1,5 @@
 # Q
-# How to build py3-none-any wheels for a project with an optional C extension?
+# How to build py3-none-any wheels for a python project with an optional C extension?
 
 [msgpack](https://pypi.org/project/msgpack/) includes an optional cython
 extension. [Some users of the package want py3-none-any wheels of msgpack](https://github.com/ionrock/cachecontrol/issues/160#issue-240767043). I'm trying to figure out how to make
