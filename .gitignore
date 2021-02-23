@@ -1,0 +1,4 @@
+build/
+dist/
+helloworld.c
+*.egg-info
